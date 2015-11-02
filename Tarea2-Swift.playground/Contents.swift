@@ -2,8 +2,6 @@
 
 import UIKit
 
-import Foundation
-
 enum Velocidades : Int{
     case Apagado = 0 , VelocidadBaja = 20, VelocidadMedia = 50, VelocidadAlta = 120
     
